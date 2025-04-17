@@ -1,0 +1,13 @@
+.full_body{
+    height: 100%;
+}
+.btn-lg{
+    width: 5em;
+    height: 3em;
+}
+.card-header{
+    margin-top: 50px;
+}
+.heading{
+    display: inline-block;
+}
